@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "218139500179",
+    "project_id": "perusall-a3cb1",
+    "storage_bucket": "perusall-a3cb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218139500179:android:02f304a67bacfb4059f766",
+        "android_client_info": {
+          "package_name": "com.angelofide.perusall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218139500179-ib5t80o08p8s55v49bsk8kpoh54s9l69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angelofide.perusall",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "218139500179-hc3h56b7h2kko4qe640bkt3e76qn33cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO8g-ruD5Bl18fQUVH9iU3o1eDWt0K5cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218139500179-hc3h56b7h2kko4qe640bkt3e76qn33cs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "218139500179-amatn3sdsv9upu76adj0umikbaj8jd2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.angelofide.perusall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
